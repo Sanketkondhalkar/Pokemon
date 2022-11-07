@@ -1,0 +1,23 @@
+.card {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 15px;
+}
+
+.card-img-top {
+  height: 180px;
+  width: 250px;
+}
+
+.home-card-main:hover img {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+
+img {
+  filter: brightness(100%);
+  filter: contrast(100%);
+  filter: drop-shadow(5px 5px 5px black);
+}

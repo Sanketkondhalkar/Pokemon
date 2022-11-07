@@ -1,0 +1,19 @@
+.container-fluid {
+  object-fit: contain;
+  background-repeat: repeat-y;
+  background-position: center;
+  background-size: contain;
+}
+
+.card-image img {
+  height: 150px;
+  width: 120px;
+  margin-top: -40px;
+  filter: grayscale(0%);
+}
+
+.card-image:hover img {
+  -ms-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}

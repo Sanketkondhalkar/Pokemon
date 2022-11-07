@@ -1,0 +1,133 @@
+@media (max-width: 535px) {
+  /* navbar media query */
+  .nav-item {
+    display: flex;
+    justify-content: center;
+  }
+  /* home media query */
+  .home-card-col3 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .home-card-col3 img {
+    height: 174px;
+    width: 236px;
+  }
+  /* gallery media query */
+  .gallery-card-col4 {
+    width: 100%;
+  }
+  .gallery-card-col4-img {
+    height: 120px !important;
+    width: 120px !important;
+    margin-top: -35px !important;
+    filter: grayscale(0%) !important;
+  }
+  .gallery-card-type-button {
+    /* margin-top: 5px; */
+    height: 25px !important;
+    font-size: 10px !important;
+  }
+  .gallery-card-pokename {
+    font-size: 25px !important;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 535px) {
+  /* navbar media query */
+  .nav-item {
+    display: flex;
+    justify-content: center;
+  }
+  /* home media query */
+  .home-card-col3 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+  }
+  /* gallery media query */
+  .gallery-card-col4 {
+    width: 100%;
+  }
+  .gallery-card-col4-img {
+    height: 190px !important;
+    width: 180px !important;
+    margin-top: -35px !important;
+    filter: grayscale(0%) !important;
+  }
+  .gallery-card-type-button {
+    margin-top: 5px;
+    height: 33px !important;
+    font-size: 20px !important;
+  }
+  .gallery-card-pokename {
+    font-size: 35px !important;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 768px) {
+  /* navbar media query */
+  .nav-item {
+    display: flex;
+    justify-content: center;
+  }
+  /* home media query */
+  .home-card-col3 {
+    width: 50%;
+  }
+  /* gallery media query */
+  .gallery-card-col4 {
+    width: 50%;
+  }
+  .gallery-card-col4-img {
+    height: 145px !important;
+    width: 125px !important;
+    margin-top: -35px !important;
+    filter: grayscale(0%) !important;
+  }
+  .gallery-card-type-button {
+    height: 29px !important;
+    font-size: 10px !important;
+  }
+  .gallery-card-pokename {
+    font-size: 25px !important;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 992px) {
+  /* home media query */
+  .home-card-col3 {
+    width: 33%;
+  }
+  /* gallery media query */
+  .gallery-card-col4 {
+    width: 50%;
+  }
+  .gallery-card-col4-img {
+    height: 175px !important;
+    width: 158px !important;
+    margin-top: -35px !important;
+    filter: grayscale(0%) !important;
+  }
+  .gallery-card-type-button {
+    height: 31px !important;
+    font-size: 14px !important;
+  }
+  .gallery-card-pokename {
+    font-size: 25px !important;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 1200px) {
+  .home-card-col3 {
+    width: 25%;
+  }
+  .gallery-card-col4 {
+    width: 33%;
+  }
+}
