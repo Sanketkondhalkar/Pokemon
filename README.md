@@ -7,7 +7,7 @@
 
 
 
-# created pokemon information page with multiple image open with click throgh component:
+# created pokemon information page:
 ![Screenshot (26)](https://user-images.githubusercontent.com/37376835/202173736-43ab2738-08b7-492b-ae61-d0fbaa21f620.png)
 
 
