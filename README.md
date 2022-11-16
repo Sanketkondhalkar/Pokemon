@@ -36,14 +36,3 @@
 ![Screenshot (32)](https://user-images.githubusercontent.com/37376835/202174238-2311c7a4-9ab5-465c-957c-6bbf6c16ed0f.png)
 
 
-#  mobile view!
-[WhatsApp Image 2022-11-16 at 5 28 41 PM](https://user-images.githubusercontent.com/37376835/202175187-3e9468d8-1a9b-4330-84b8-9594a7058861.jpeg)
-
-
-
-
-
-
-![WhatsApp Image 2022-11-16 at 5 28 52 PM](https://user-images.githubusercontent.com/37376835/202175223-c73401ca-5f03-44d1-a035-10d543f26c27.jpeg)
-
-
